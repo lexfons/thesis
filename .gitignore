@@ -2,6 +2,7 @@
 keys.json
 keys_sunlit.json
 id_rsa
+Boruta.ipynb
 
 #dont do data uploading
 *.csv
