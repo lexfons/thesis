@@ -3,9 +3,21 @@ keys.json
 keys_sunlit.json
 id_rsa
 Boruta.ipynb
+check_missing_socialmedia.ipynb
+combining_cluster_and_fs_old.ipynb
+dataset prep.ipynb
+EvalResultsFunc.ipynb
+feature_selection_old.ipynb
+imputation.ipynb
+run models lex.ipynb
+view_results.ipynb
+results_vif.json
+
+
 
 #dont do data uploading
 *.csv
+*.xlsx
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
