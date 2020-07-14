@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+statsmodels==0.11.1
+matplotlib
+xgboost
+boruta
