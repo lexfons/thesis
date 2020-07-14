@@ -1,3 +1,8 @@
+#custom
+keys.json
+keys_sunlit.json
+id_rsa
+
 #dont do data uploading
 *.csv
 # Byte-compiled / optimized / DLL files
